@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.Note.NoteApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-03T13:44:37" hostname="LAPTOP-K6HNTFCC" time="0.88">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.Note.NoteApplicationTests" time="0.88"/>
+  <system-out><![CDATA[19:14:36.673 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.Note.NoteApplicationTests]: NoteApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+19:14:36.784 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.Note.NoteApplication for test class com.example.Note.NoteApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.2)
+
+2024-02-03T19:14:37.200+05:30  INFO 23996 --- [Note] [    Test worker] com.example.Note.NoteApplicationTests    : Starting NoteApplicationTests using Java 17.0.6 with PID 23996 (started by NISHAN SINGH in D:\Spring Framework\Note)
+2024-02-03T19:14:37.202+05:30  INFO 23996 --- [Note] [    Test worker] com.example.Note.NoteApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-02-03T19:14:37.704+05:30  INFO 23996 --- [Note] [    Test worker] com.example.Note.NoteApplicationTests    : Started NoteApplicationTests in 0.708 seconds (process running for 2.05)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
